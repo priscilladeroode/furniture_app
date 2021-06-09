@@ -24,7 +24,7 @@
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-- [Flutter](https://flutter.dev/)
+- [Flutter v.2.2.1](https://flutter.dev/)
 
 ## :books: Bibliotecas
 
