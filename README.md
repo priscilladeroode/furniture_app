@@ -1,16 +1,46 @@
-# furniture_app
+<h1 align="center">
+  Furniture App
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="#-tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dart-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-## Getting Started
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+</p>
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img alt="Furniture App" src=".github/images/furniture_app_cover.png" width="80%">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ✨ Tecnologia
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse projeto foi desenvolvido com a seguinte tecnologia:
+
+- [Flutter](https://flutter.dev/)
+
+## :books: Bibliotecas
+
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+
+## 💻 Projeto
+
+O Furniture App é um projeto focado em UI com pequenas animações sobre a venda de móveis online.
+
+## :dart: Objetivo
+
+Praticar o desenvolvimento de interfaces e pequenas animações em Flutter para Android e IOS.
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com `flutter pub get`
+- Inicie o aplicativo com `flutter run dev`
